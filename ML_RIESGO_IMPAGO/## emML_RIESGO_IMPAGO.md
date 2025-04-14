@@ -65,7 +65,7 @@ Entrenamiento con Random Forest.
 
 Evaluación mediante classification report y matriz de confusión.
 
-ENGLISH
+## ENGLISH
 The pipeline includes:
 
 Preprocessing of numeric and categorical features.
@@ -86,6 +86,14 @@ Se realizaron predicciones sobre nuevos datos.
 
 Se evaluó la importancia de las variables.
 
+## ENGlISH
+
+The model was trained and saved as modelo_riesgo_impago.pkl.
+
+Predictions were made on new data.
+
+The importance of the variables was evaluated.
+
 ## Presentación / Presentation
 
 El repositorio incluye:
@@ -94,9 +102,15 @@ Imágenes EDA en src/img
 
 Notebook resumen en src/results_notebook
 
+Summary notebook in src/results_notebook
+
 Presentación para el vídeo
 
+Presentation for the video
+
 Para ejecutar el notebook final, abre el archivo en src/results_notebook y sigue las celdas paso a paso. Puedes reutilizar el modelo con nuevos datos siempre que tengan el mismo formato y columnas que el dataset original.
+
+To run the final notebook, open the file in src/results_notebook and follow the cells step by step. You can reuse the model with new data as long as it has the same format and columns as the original dataset.
 
 
 
